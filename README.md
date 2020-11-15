@@ -24,8 +24,8 @@ Make sure you have the following pieces of software installed (they
 are part of most distributions):
 
  * cmake
- * sigc++
- * gtkmm
+ * [sigc++](https://github.com/libsigcplusplus/libsigcplusplus)
+ * [gtkmm](https://gtkmm.org/en/download.html)
 
 You can compile it by typing:
 
